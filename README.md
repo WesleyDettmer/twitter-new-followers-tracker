@@ -2,7 +2,7 @@
 
 ## Instalação
 Para instalar -
-* Clone o projeto (`git clone https://github.com/`)
+* Clone o projeto (`git clone https://github.com/WesleyDettmer/twitter-new-followers-tracker.git`)
 * Instale os pacotes requisitados pelo arquivo de texto - (`'pip3 install -r requisitos.txt'`)
 
 ## Configuração
